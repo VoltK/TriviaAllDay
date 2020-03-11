@@ -1,1 +1,1 @@
-"# TriviaAllDay" 
+# TriviaAllDay 
