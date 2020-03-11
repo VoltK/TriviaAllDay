@@ -12,7 +12,7 @@ Android trivia game
 
 ## Getting Started
 
-1. git clone https://github.com/VoltK/Moviefier.git
+1. git clone https://github.com/VoltK/TriviaAllDay.git
 2. import project to IntelliJ (https://www.jetbrains.com/help/idea/importing-an-existing-android-project.html)
 3. run
 
