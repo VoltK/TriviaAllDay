@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myBlue">@color/DodgerBlue</color>
+<!--    <color name="primaryLightColor">#6ec6ff</color>-->
+<!--    <color name="primaryDarkColor">#0069c0</color>-->
+<!--    <color name="primaryTextColor">#000000</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="red">#e61409</color>
+    <color name="green">#1be609</color>
+
+    <color name="backgroundColor">#838cbb</color>
+
+    <color name="primaryColor">#ffee58</color>
+    <color name="primaryLightColor">#ffff8b</color>
+    <color name="primaryDarkColor">#c9bc1f</color>
+    <color name="primaryTextColor">#000000</color>
+
+
+</resources>

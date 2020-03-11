@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TriviaAllDay</string>
+    <string name="test_question">Where does the Mac part of the name Fleetwood Mac come from?</string>
+    <string name="test_answer">CORRECT ANSWER</string>
+    <string name="category">Category</string>
+    <string name="categories_label">Pick a Category</string>
+    <string name="category_id">category_id</string>
+    <string name="category_id_error">Sorry, this category is temporary unavailable</string>
+    <string name="round_score">round_score</string>
+    <string name="bad_score">Try harder next time!</string>
+    <string name="normal_score">Not bad!</string>
+    <string name="good_score">Good job!</string>
+    <string name="top_5">TOP 5 Scores</string>
+    <string name="mode">mode</string>
+    <string name="game_mode">game</string>
+    <string name="ranking_mode">ranking</string>
+    <string name="position">position</string>
+    <string name="back">Back</string>
+</resources>

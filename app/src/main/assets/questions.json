@@ -1,0 +1,183 @@
+{
+  "response_code":0,
+  "results":[
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What was the title of ABBA`s first UK hit single?",
+      "correct_answer":"Waterloo",
+      "incorrect_answers":[
+        "Mamma Mia",
+        "Fernando",
+        "Dancing Queen"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Ringo Starr of The Beatles mainly played what instrument?",
+      "correct_answer":"Drums",
+      "incorrect_answers":[
+        "Bass",
+        "Guitar",
+        "Piano"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Where does the Mac part of the name Fleetwood Mac come from?",
+      "correct_answer":"John McVie",
+      "incorrect_answers":[
+        "Christine McVie",
+        "Mac McAnally",
+        "David Tennant"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"According to a Beatles song, who kept her face in a jar by the door?",
+      "correct_answer":"Eleanor Rigby",
+      "incorrect_answers":[
+        "Loretta Martin",
+        "Molly Jones",
+        "Lady Madonna"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+      "correct_answer":"John",
+      "incorrect_answers":[
+        "Paul",
+        "George",
+        "Ringo"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+      "correct_answer":"Recess",
+      "incorrect_answers":[
+        "All is Fair in Love and Brostep",
+        "Rock N Roll (Will Take You to the Mountain)",
+        "Scary Monsters and Nice Sprites"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Kanye West at 2009 VMA&#039;s interrupted which celebrity?",
+      "correct_answer":"Taylor Swift",
+      "incorrect_answers":[
+        "MF DOOM",
+        "Beyonce",
+        "Beck"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?",
+      "correct_answer":"Left Eye",
+      "incorrect_answers":[
+        "Right Ear",
+        "Right Middle Finger",
+        "Nose"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+      "correct_answer":"Ludvig Van Beethoven",
+      "incorrect_answers":[
+        "Chief Keef",
+        "Wolfgang Amadeus Mozart",
+        "Johannes Brahms"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Nick Mason is the only member to appear on every Pink Floyd album.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"hard",
+      "question":"Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+      "correct_answer":"&quot;A rainy Lithuanian \/ Is dancing as an Indian&quot;",
+      "incorrect_answers":[
+        "&quot;Fly away on, my zephyr \/ I feel it more than ever&quot;",
+        "&quot;And I liked the dimple in your chin \/ Your pale blue eyes&quot;",
+        "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"&quot;Make You Feel My Love&quot; was originally written and performed by which singer-songwriter?",
+      "correct_answer":"Bob Dylan",
+      "incorrect_answers":[
+        "Elvis",
+        "Adele",
+        "Billy Joel"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"hard",
+      "question":"Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?",
+      "correct_answer":"Aero Deck",
+      "incorrect_answers":[
+        "Textuell",
+        "Panorama",
+        "Do While"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which band recorded the album &quot;Parallel Lines&quot;?",
+      "correct_answer":"Blondie",
+      "incorrect_answers":[
+        "Paramore",
+        "Coldplay",
+        "The Police"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which of the following is not a studio album by the band Pink Floyd?",
+      "correct_answer":"Moving Pictures",
+      "incorrect_answers":[
+        "The Dark Side of the Moon",
+        "Wish You Were Here",
+        "Animals"
+      ]
+    }
+  ]
+}
